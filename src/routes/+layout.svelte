@@ -15,7 +15,7 @@
       Rating Wizard Demonstration
     </header>
     <div class="flex justify-end items-center">
-      <div class="mt-1 px-2 sm:px-4 md:px-6 bg-black text-white">
+      <div class="mt-1 px-2 sm:px-4 md:px-6">
         <SVG_User />
       </div>
       <div class="mt-1 px-2 sm:px-4 md:px-6">
